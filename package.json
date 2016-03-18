@@ -1,6 +1,8 @@
 {
   "name": "request-header-fcc",
   "version": "0.0.0",
+  "repository": "https://github.com/Rancho06/request-header-fcc",
+  "website": "http://request-header-fcc.herokuapp.com",
   "scripts": {
     "start": "node server"
   },
